@@ -44,3 +44,6 @@
    streamlit run Home.py
    ```
    명령어를 실행하면 웹 브라우저가 자동으로 열리며 애플리케이션을 사용할 수 있습니다.
+[requirements.txt](https://github.com/user-attachments/files/34413666/requirements.txt)
+streamlit
+pandas
